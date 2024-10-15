@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MainMenu">
+    <Position X="3.75" Y="33" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwRAAAAAACAAAAQkNAABiIAABAAAAAAAAIAAAASAIQA=</HashCode>
+      <FileName>Assets\Scripts\UI\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet">
+    <Position X="11.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAEAgACEEIAAAAAAAgABAQAQQAAAAAAAAIA=</HashCode>
+      <FileName>Assets\Scripts\Character\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FightSystem">
+    <Position X="5.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAQAAAAEAAAAAAAAAgAACAAAAAAABAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Character\FightSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Move">
+    <Position X="3.75" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEQKAEAAAEAAAAEAAAAAECgAAACAAQAQAAAAAABAAIA=</HashCode>
+      <FileName>Assets\Scripts\Character\Move.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Skill">
+    <Position X="9.5" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgQACwAQAEAAgADgCACIAAEBIAAAAgAAABwAAoAEAAI=</HashCode>
+      <FileName>Assets\Scripts\Character\Skill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stats">
+    <Position X="7.5" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAASIACAAAISCSAZJIAEABAgGAQAhAEAAJBAgBAg=</HashCode>
+      <FileName>Assets\Scripts\Character\Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data">
+    <Position X="11" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAACAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Database\Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBConnect">
+    <Position X="3.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAQAAAEAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Database\DBConnect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coin">
+    <Position X="7.25" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAAAAAAIAAAAAAgAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\Coin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyAI">
+    <Position X="3.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAUAAACABAQBABAIAIAAAAKAABAABAAAAABAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\EnemyAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyStats">
+    <Position X="5.5" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgAAAAAAgAAAAAIAAAQAgAAABAAACAgg=</HashCode>
+      <FileName>Assets\Scripts\Enemy\EnemyStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="House">
+    <Position X="5.5" Y="21.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAkQACACAFwAAAAAAAYQAAQAAABgABAgAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Map\House.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map">
+    <Position X="3.75" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIEAAAIAIAiBTIRgICECFgEAoAAAAgAAQIACAAA=</HashCode>
+      <FileName>Assets\Scripts\Map\Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tile">
+    <Position X="12.75" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAgAAAAAAAIAQABAQEAAxIACAAQAAgAAIAAA=</HashCode>
+      <FileName>Assets\Scripts\Map\Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Water">
+    <Position X="7.5" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgBAAAAAAAAAAACAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\Scripts\Map\Water.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIData">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAgg=</HashCode>
+      <FileName>Assets\Scripts\Save\AIData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HouseData">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAEAAAAAAAAIAAAAAAAAAAAAgAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Save\HouseData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveFormat">
+    <Position X="15" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAQCAAAIAAARACACAIAEAIAAAAgAAAAQAApAGAAo=</HashCode>
+      <FileName>Assets\Scripts\Save\SaveFormat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveSystem">
+    <Position X="5.5" Y="29" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIEBAQAAAQAAAAAAQAAAAwAAAAAAAAACIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Save\SaveSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneLoad">
+    <Position X="3.75" Y="29" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEkAAAAACACAAAAAAAAAAABBAIAAAIAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Save\SceneLoad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileData">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAEAARAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Save\TileData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonTag">
+    <Position X="7.25" Y="33" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\ButtonTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="5.5" Y="33" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EwQAgLABACEAAASgGAABgAgAAAAIAAgAQIAAAATAAQg=</HashCode>
+      <FileName>Assets\Scripts\UI\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="1" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UnityEngine.Behaviour" Collapsed="true">
+    <Position X="1" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UnityEngine.Component" Collapsed="true">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UnityEngine.Object" Collapsed="true">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

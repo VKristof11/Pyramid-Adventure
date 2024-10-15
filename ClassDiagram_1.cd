@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Data">
+    <Position X="11.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAACAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Database\Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBConnect">
+    <Position X="13.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAQAAAEAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Database\DBConnect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tile">
+    <Position X="9" Y="10" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAgAAAAAAAIAQABAQEAAxIACAAQAAgAAIAAA=</HashCode>
+      <FileName>Assets\Scripts\Map\Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIData">
+    <Position X="9.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAgg=</HashCode>
+      <FileName>Assets\Scripts\Save\AIData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HouseData">
+    <Position X="11.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAEAAAAAAAAIAAAAAAAAAAAAgAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Save\HouseData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveFormat">
+    <Position X="15.5" Y="7" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAQCAAAIAAARACACAIAEAIAAAAgAAAAQAApAGAAo=</HashCode>
+      <FileName>Assets\Scripts\Save\SaveFormat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileData">
+    <Position X="13.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAEAARAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Save\TileData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="12.25" Y="3.75" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
